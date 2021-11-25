@@ -13,8 +13,8 @@
 
 ➾ **ClearHistory**
   >Click on "chocolate" from the most searched words.
-  >First, shoes are searched on the search bar.
-  >Then the shirt is searched.
-  >Finally, the pants are searched.
-  >The user then clicks on the "Clear History" button when they clear the search bar and click.
+  >>First, shoes are searched on the search bar.
+  >>>Then the shirt is searched.
+  >>>>Finally, the pants are searched.
+  >>>>>The user then clicks on the "Clear History" button when they clear the search bar and click.
   
