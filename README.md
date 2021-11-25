@@ -38,8 +38,8 @@
 
   ***How to run***
   
-   🔧 After downloading the project, you must first change the chromedriver path.
-   🔧 After the path is given, go to the project as src>test>java>CiceksepetiWebui.
-    🔧 Click the run button and you can sit back and watch
-   🔧 <img width="546" alt="Ekran Resmi 2021-11-26 01 35 27" src="https://user-images.githubusercontent.com/74761090/143505120-27d1038a-17f2-4850-848b-4e5b88df455b.png"> 
+   >🔧 After downloading the project, you must first change the chromedriver path.
+   >>🔧 After the path is given, go to the project as src>test>java>CiceksepetiWebui.
+   >>>🔧Click the run button and you can sit back and watch
+   >>>>🔧 <img width="546" alt="Ekran Resmi 2021-11-26 01 35 27" src="https://user-images.githubusercontent.com/74761090/143505120-27d1038a-17f2-4850-848b-4e5b88df455b.png"> 
   
