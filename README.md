@@ -44,6 +44,6 @@
    >>>><img width="546" alt="Ekran Resmi 2021-11-26 01 35 27" src="https://user-images.githubusercontent.com/74761090/143505120-27d1038a-17f2-4850-848b-4e5b88df455b.png"> 
    
    
-   ***PS***
+   ***PS*** :
    **User information is not real.**
   
