@@ -36,7 +36,7 @@
   >>>>My "account" using login is verified.
 
 
-  ***How to run***
+ 🛠 ***How to run***🛠
   
    >🔧 After downloading the project, you must first change the chromedriver path.
    >>🔧 After the path is given, go to the project as src>test>java>CiceksepetiWebui.
