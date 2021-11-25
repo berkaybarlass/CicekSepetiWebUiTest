@@ -5,6 +5,7 @@
    The basic testing methodology was used.
    
    **TEST1**
+   
   ➾ **ProductFilterTest**
   >Click on "chocolate" from the most searched words.
   >>On the page that opens, it filters the price to a maximum of 50 TL.
