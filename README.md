@@ -4,5 +4,5 @@
  
    The basic testing methodology was used.
    
-  >** ProductFilterTest***
+  ➾ ProductFilterTest
   >
