@@ -21,7 +21,10 @@
 
   **TEST2**
   ➾ **SingUp**
-  
+  >User goes to www.çiçeksepeti.com
+  >>Hover over the Sign in button and click the sign up button.
+  >>>Fills in the required information completely.
+  >>>>Sees and validates the thank you message.
   
   
   
