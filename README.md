@@ -1,6 +1,6 @@
 # CicekSepetiWebUiTest
  
-                  📌 **Selenium Java Test Automation Project** 📌
+📌 **Selenium Java Test Automation Project** 📌
  
    The basic testing methodology was used.
    
